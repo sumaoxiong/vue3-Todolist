@@ -1,11 +1,9 @@
-此專案是一個使用 **Vite + Vue3** 製作的 Todolist，主要功能包含：
+此專案是一個使用 **Vite + Vue3** 製作的 Todolist，無串接API，主要功能包含：
 
 - 新增、刪除、編輯待辦事項
 - 標記已完成/未完成
-- 與 API 串接，資料可持久化
-- 登入註冊
 
-此專案的目標是練習 **Vue3 Composition API** 與 **前後端 API 串接**，並強調程式碼風格的維護（整合 ESLint）。
+此專案的目標是練習 **Vue3 Composition API** 強調程式碼風格的維護（整合 ESLint）。
 
 ## Demo
 
@@ -18,7 +16,6 @@
 ## 使用技術
 
 - 主要框架與工具：Vite、Vue3、Composition API
-- API/資料處理：axios
 - 開發輔助：ESLint
 
 ## 專案結構
